@@ -1,1 +1,0 @@
-https://medium.com/@rakesh.melezhath/understanding-fastai-v2-training-with-a-computer-vision-example-part-1-the-resnet34-model-dd9270450bb8
